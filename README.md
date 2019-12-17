@@ -1,0 +1,2 @@
+# WIstadon
+Mastodon on CUI
